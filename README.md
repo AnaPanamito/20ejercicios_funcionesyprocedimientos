@@ -1,5 +1,5 @@
-\t\t\ TALLER: FUNCIONES Y PROCEDIMIENTOS \n
-Estudiante: Ana Panamito \n
+TALLER: FUNCIONES Y PROCEDIMIENTOS 
+Estudiante: Ana Panamito
 1. **Suma de los dígitos de un número**
 https://github.com/AnaPanamito/20ejercicios_funcionesyprocedimientos/blob/main/20ejercfunctionyprocedimiento/Ejercicio01.c 
 2. **Inverso de un número**
